@@ -24,26 +24,13 @@ You can try the live app here:
 ## Screenshots
 
 **Screenshot 1** – Main Dashboard  
-![Screenshot 1](screenshots/Screenshot4.png)
-
-**Screenshot 2** – Input Summary  
-![Screenshot 2](screenshots/Screenshot4.png)
-
-**Screenshot 3** – Run Prediction Button  
-![Screenshot 3](screenshots/Screenshot5.png)
+![Screenshot 1](screenshots/Screenshot11.png)
 
 **Screenshot 4** – Prediction Result (Customer likely to stay)  
-![Screenshot 4](screenshots/Screenshot5.png)
+![Screenshot 4](screenshots/Screenshot12.png)
 
-
-**Screenshot 6** – Feature Importance (Bar Chart)  
-![Screenshot 6](screenshots/Screenshot6.png)
-
-**Screenshot 7** – Sidebar Input Example  
-![Screenshot 7](screenshots/Screenshot1.png)
-
-**Screenshot 8** – Full Application View  
-![Screenshot 8](screenshots/Screenshot1.png)
+**Screenshot 8** – Prediction Result (Customer likely to churn)   
+![Screenshot 8](screenshots/Screenshot13.png)
 
 ---
 
