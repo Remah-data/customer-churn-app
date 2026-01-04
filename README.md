@@ -17,8 +17,8 @@ It uses a **Random Forest Classifier** trained on customer data to predict wheth
 
 ## Demo
 You can try the live app here:  
-[Streamlit App Link](https://share.streamlit.io/<your-username>/<repo-name>/main/app.py)
 
+https://customer-churn-prediction-apps.streamlit.app/
 ---
 
 ## Screenshots
